@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ApplicationException.cs" />
     <Compile Include="ApplicationExitCode.cs" />
+    <Compile Include="Properties\AssemblyProperties.cs" />
     <Compile Include="LogicalStringComparer.cs" />
     <Compile Include="NativeMethods.cs" />
     <Compile Include="NuGet\PackageConfig.cs" />
